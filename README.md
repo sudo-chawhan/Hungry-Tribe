@@ -15,7 +15,7 @@ Implementing extended Producer-Consumer problem ( Hungry Tribe problem) using se
 $ cd Hungry-Tribe
 ```
 
-* Edit input.txt to the desired inputs
+* Edit inputs.txt to the desired inputs
 ```
 inputs are in the form
 ----
@@ -31,7 +31,7 @@ mu
 * in the terminal, compile the .cpp files using
 
 ```
-$ g++ -std=c++11 -pthread  cs16btech11037-code.cpp -lrt "
+$ g++ -std=c++11 -pthread  cs16btech11037-code.cpp -lrt 
 $ ./a.out
 ```
 * ...The expected files will be created...
